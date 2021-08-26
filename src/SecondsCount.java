@@ -7,6 +7,7 @@ public class SecondsCount {
         output: int seconds
      */
     public static int howManySeconds(int hours) {
+        <YOUR CODE HERE>
     }
 
     /*
