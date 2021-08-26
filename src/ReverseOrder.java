@@ -5,8 +5,8 @@ public class ReverseOrder {
         Reverse your input array
 
         input:
-            int numElements: Should be grater than one
-            int[] intList: a list of (numElements) elements
+            int numElements: Should be greater than one
+            int[] intList: an array of (numElements) elements
         output:
             int[] : an int[] of intList in reverse
 
@@ -22,7 +22,7 @@ public class ReverseOrder {
         Example:
             User input: 3 1 2 4
             Your output: 4 2 1
-            Explanation: 3 is number of integers, 1 2 4 is elements of the array
+            Explanation: 3 is number of integers, 1 2 4 are elements of the array
      */
 
     public static void main(String[] args) {
